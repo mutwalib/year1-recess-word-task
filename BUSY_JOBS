@@ -1,0 +1,4 @@
+214001249 -0>REPLACE middle 1-h,2-u,3-s,4-t; 
+214001249 -0>REPLACE middle 1-h,2-u,3-s,4-t; 
+214001249 -0>ENCRYPT testword; DOUBLE_ 
+214001249 -0>DECRYPT xxx; REVERSE 
